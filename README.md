@@ -1,4 +1,4 @@
-# Vscode scss
+# Vscode scss starter
 
 This is a complete setup that gets running scss compilation using vscode.
 
